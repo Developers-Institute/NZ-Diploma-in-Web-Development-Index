@@ -1,6 +1,6 @@
 # Index - NZ Diploma in Web Development
 
-First up briefly check out the [student handbook](https://github.com/Developers-Institute/Student-Handbook) have a quick read of the table of contents, the welcome and intro would be handy to read now.
+First up briefly check out the [student handbook](https://github.com/Developers-Institute/Student-Handbook) have a quick scan of the table of contents, and read the welcome and intro sections.
 
 ## WDD01: Introduction to Client-Side Web Developement Level 5
  - [Pre-course setup](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup)
