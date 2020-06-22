@@ -2,7 +2,7 @@
 
 ## Orientation
 
-First up briefly check out the [student handbook](https://github.com/Developers-Institute/Student-Handbook) have a quick scan of the table of contents, and read the welcome and intro sections.
+First up briefly check out the [student handbook](https://github.com/Developers-Institute/Student-Handbook); have a quick scan of the table of contents, and read the welcome and intro sections.
 - [Student handbook](https://github.com/Developers-Institute/Student-Handbook)
 
 Secondly, you will be running through the pre-course setup tasks for the orentation week:
