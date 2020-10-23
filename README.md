@@ -5,7 +5,7 @@
 First up briefly check out the [student handbook](https://github.com/Developers-Institute/Student-Handbook); have a quick scan of the table of contents, and read the welcome and intro sections.
 - [Student handbook](https://github.com/Developers-Institute/Student-Handbook)
 
-Secondly, you will be running through the pre-course setup tasks for the orentation week:
+Secondly, you will be running through the pre-course setup tasks for the orientation week:
  - [Pre-course setup](https://github.com/Developers-Institute/WDD01-Client-Side-Pre-Course-Setup)
 
 ## WDD01: Introduction to Client-Side Web Development Level 5
